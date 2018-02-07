@@ -17,3 +17,5 @@
 n = 7
 s = "My lucky number is %d, what is yours? %d" % (n,n)
 print(s)
+
+print('Hey there')
